@@ -1,5 +1,7 @@
 # Jiu Jitsu Practitioners Site 🥋
 
+![Project Screenshot](./imagens/Screenshot.png)
+
 ## Project Overview 📊
 
 The Jiu Jitsu Practitioners Site is a static front-end project designed to present Brazilian Jiu Jitsu as a sport, discipline, and lifestyle. The website focuses on clean structure, visual clarity, and responsive design, serving as a practice project for HTML and CSS fundamentals.
